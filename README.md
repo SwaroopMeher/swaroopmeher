@@ -11,10 +11,10 @@
 #
 
 ### 🛠 Skills
-**Programming**:	Python (NumPy, Pandas, Matplotlib, scikit-learn), C++, R, SQL, Hive, Data Structures
-**Machine Learning**:	TensorFlow, Scikit-learn, XGBoost, PyTorch, Deep Learning, Natural Language Processing, Big Data
-**MLOps**:	Amazon EMR, MLflow, Tableau, SageMaker, AWS, Git, PySpark, Kafka, Docker, Terraform, FastAPI, Kubernetes, Github (CI/CD), Airflow, Snowflake, DynamoDB (NoSQL), Amazon EKS, Pinecone, PostgreSQL, Langchain
-**Data Science**:	Data Cleaning, Exploratory Data Analysis (EDA), Feature Engineering, Statistics, Hypothesis Testing, A/B Testing, Dimensionality Reduction, Data Visualization, Dashboards
+**Programming**:	Python (NumPy, Pandas, Matplotlib, scikit-learn), C++, R, SQL, Hive, Data Structures</br>
+**Machine Learning**:	TensorFlow, Scikit-learn, XGBoost, PyTorch, Deep Learning, Natural Language Processing, Big Data</br>
+**MLOps**:	Amazon EMR, MLflow, Tableau, SageMaker, AWS, Git, PySpark, Kafka, Docker, Terraform, FastAPI, Kubernetes, Github (CI/CD), Airflow, Snowflake, DynamoDB (NoSQL), Amazon EKS, Pinecone, PostgreSQL, Langchain</br>
+**Data Science**:	Data Cleaning, Exploratory Data Analysis (EDA), Feature Engineering, Statistics, Hypothesis Testing, A/B Testing, Dimensionality Reduction, Data Visualization, Dashboards</br>
 
 #
 
