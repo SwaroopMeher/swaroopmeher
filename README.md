@@ -2,16 +2,15 @@
 <h3 align="center"></h3>
 
 ### 👩🏽‍💻 About Me
-🤖 Aspiring Machine Learning Engineer
-🚀 Currently working on an end-to-end MLOps project
-🌱 Learning llamindex, langchain and fastapi
-👯 Looking out for opportunities to collaborate in ML and Data Science projects  
+🤖 Aspiring Machine Learning Engineer</br>
+🚀 Currently working on an end-to-end MLOps project</br>
+🌱 Learning llamindex, langchain and fastapi</br>
+👯 Looking out for opportunities to collaborate in ML and Data Science projects</br>
 📫 Reach out to me at [swaroop.malina@gmail.com](swaroop.malina@gmail.com)  
 
 #
 
 ### 🛠 Skills
-### 💻 Skills
 - **Programming:** 
   <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" width="20" height="20"/> Python (NumPy, Pandas, Matplotlib, scikit-learn)
   <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/cpp/cpp-original.svg" width="20" height="20"/> C++
